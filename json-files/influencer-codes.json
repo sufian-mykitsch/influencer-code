@@ -1,0 +1,36 @@
+{
+  "influencerCodes": [
+    {
+      "id": 1,
+      "code": "MALLORY25",
+      "influencerName": "Mallory",
+      "discount": "25%",
+      "status": "active",
+      "createdDate": "2026-01-09"
+    },
+    {
+      "id": 2,
+      "code": "AMY25",
+      "influencerName": "Amy",
+      "discount": "25%",
+      "status": "active",
+      "createdDate": "2026-01-09"
+    },
+    {
+      "id": 3,
+      "code": "ALEXIS",
+      "influencerName": "Alexis",
+      "discount": "20%",
+      "status": "active",
+      "createdDate": "2026-01-09"
+    },
+    {
+      "id": 4,
+      "code": "ALYSSAAHOWARD",
+      "influencerName": "Alyssa A Howard",
+      "discount": "25%",
+      "status": "active",
+      "createdDate": "2026-01-09"
+    }
+  ]
+}
